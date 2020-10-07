@@ -1,0 +1,1 @@
+# tugas-array-of-struct-C
